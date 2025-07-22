@@ -66,3 +66,9 @@ th td{
 th{
     background-color: #0c96cc;
 }
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    font-weight: 600px;
+    color: blueviolet;
+}
